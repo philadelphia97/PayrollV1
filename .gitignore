@@ -1,0 +1,17 @@
+# Eclipse specific
+/.settings/
+/.project
+.classpath
+
+# Compiled class files
+/bin/
+/target/
+/*.class
+
+# Other IDE-specific folders (optional)
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+
